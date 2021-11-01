@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+#### SPEND MORE TIME GROWING YOUR FIRM
 
-You can use the [editor on GitHub](https://github.com/sourceparalegal/sourceparalegal.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## A Paralegal Solution, Customized to Fit Your Firm
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![support staff](support-staff.jpeg)
 
-### Markdown
+Are you overconsumed in the workload and unable prioritize the time needed to grow and scale your firm? Are you thinking about hiring support staff but hesitant to take the next step?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our customized paralegal support services provide you with EVERYTHING you need to give you back the time. **Beginning with a discovery and design phase, we mutually identify the work consuming 80% of your time, and provide you with a customized solution so that you can outsource the work to Source Paralegal and then re-focus your time on managing your practice.**
 
-```markdown
-Syntax highlighted code block
+You will be provided a dedicated paralegal to utilize as often as you’d like. Our service includes but is certainly not limited to: drafting and reviewing contracts, drafting legal briefs and memoranda, conducting legal research, reviewing medical records and discovery, as well as answering the phone and calendaring appointments.
 
-# Header 1
-## Header 2
-### Header 3
+##### Utilize Source Paralegal to outsource your entire staff!
 
-- Bulleted
-- List
+## Experienced. Virtual. Dependable.
 
-1. Numbered
-2. List
+![vetted paralegals](vetted-paralegals.jpeg)
 
-**Bold** and _Italic_ and `Code` text
+We pride ourselves here at Source Paralegal on our ability to provide you with an experienced, professional service from a distance. Our paralegals are carefully vetted, and preselected based on your needs and their level of experience in your area of practice. All of our work is one-hundred percent virtualized, so we can be flexible, time-efficient, and one click away from a virtual chat whenever you need us. And most importantly, we want to be a good fit with our clients. But don’t just take our word for it, please read our past client stories and here about how about how Source Paralegal helped them and what they were able to achieve with the extra time afforded back to them. 
 
-[Link](url) and ![Image](./source-paralegal-logo.png)
-```
+### View Our Client Stories
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### HOW CAN WE HELP YOU?
 
-### Jekyll Themes
+## Contact Us Below
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sourceparalegal/sourceparalegal.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![good fit with clients](good-fit-with-clients.jpeg)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[youremail@email.com](mailto:youremail@email.com)
