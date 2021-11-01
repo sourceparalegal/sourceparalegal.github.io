@@ -1,4 +1,4 @@
-#### SPEND MORE TIME GROWING YOUR FIRM
+### SPEND MORE TIME GROWING YOUR FIRM
 
 ## A Paralegal Solution, Customized to Fit Your Firm
 
@@ -10,7 +10,7 @@ Our customized paralegal support services provide you with EVERYTHING you need t
 
 You will be provided a dedicated paralegal to utilize as often as you’d like. Our service includes but is certainly not limited to: drafting and reviewing contracts, drafting legal briefs and memoranda, conducting legal research, reviewing medical records and discovery, as well as answering the phone and calendaring appointments.
 
-##### Utilize Source Paralegal to outsource your entire staff!
+Utilize Source Paralegal to outsource your entire staff!
 
 ## Experienced. Virtual. Dependable.
 
@@ -20,7 +20,7 @@ We pride ourselves here at Source Paralegal on our ability to provide you with a
 
 ### View Our Client Stories
 
-#### HOW CAN WE HELP YOU?
+### HOW CAN WE HELP YOU?
 
 ![good fit with clients](good-fit-with-clients.jpeg)
 
