@@ -22,8 +22,8 @@ We pride ourselves here at Source Paralegal on our ability to provide you with a
 
 #### HOW CAN WE HELP YOU?
 
-## Contact Us Below
-
 ![good fit with clients](good-fit-with-clients.jpeg)
+
+## Contact Us Below
 
 [youremail@email.com](mailto:youremail@email.com)
