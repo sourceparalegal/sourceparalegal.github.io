@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme
 title: [Source Paralegal]
 description: [Virtualized paralegal support services]
-logo: source-paralegal-logo.jpeg
+logo: assets/images/source-paralegal-logo.jpeg
 page1: [paralegalservices]
 page1description: [Services Offered]
 source: app
