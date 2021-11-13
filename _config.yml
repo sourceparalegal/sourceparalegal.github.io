@@ -4,4 +4,5 @@ plugins:
 title: [Source Paralegal]
 description: [Virtualized paralegal support services]
 logo: source-paralegal-logo.jpeg
+page1: [paralegalservices]
 source: app
