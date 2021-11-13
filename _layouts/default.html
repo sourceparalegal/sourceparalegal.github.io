@@ -16,16 +16,18 @@
   <body>
     <div class="wrapper">
       <header style="padding:0px">
-        <img src='{{site.logo | relative_url}}' alt='{{ site.title | default: site.github.repository_name }}' style='max-width:225px; display:flex; align-items:center; justify-content:center; margin: 0 auto'/>
+        <!-- LOGO -->
+        <a href='./'>
+          <img src='{{site.logo | relative_url}}' alt='{{ site.title | default: site.github.repository_name }}' 
+               style='max-width:225px; display:flex; align-items:center; justify-content:center; margin: 0 auto'/>
+        </a>
 
-<!--         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %} -->
-
+        <!-- SITE DESCRIPTION -->
         <p style="display:flex; align-items:center; justify-content:center; margin: 0 auto; color:#310303; 
                   opacity: 60%; letter-spacing: 0.4px; font-family:Helvetica; font-weight: 200; font-size:15px;
                   margin-top:15px; margin-bottom:20px">{{ site.description | default: site.github.project_tagline }}</p>
         
+        <!-- NAVIGATION -->
         <p style="display:flex; align-items:center; justify-content:center; margin: 0 auto; margin-top:20px; margin-bottom:20px;">
           <a href='./{{ site.page1 }}.html'>{{ site.page1description }}</a>
         </p>
@@ -38,11 +40,13 @@
         </ul>
         {% endif %}
       </header>
+      
       <section>
-
+      <!-- INDEX.MD -->
       {{ content }}
 
       </section>
+      
       <footer>
         <p><small>&#169; 2021, SOURCE PARALEGAL, LLC.</small></p>
       </footer>
