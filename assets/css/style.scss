@@ -19,7 +19,8 @@ section {
     padding-top: 40px;
 }
 
-@media print, screen and (max-width: 960px)
-section {
-  padding-top: 20px
+@media print, screen and (max-width: 960px) {
+  section {
+    padding-top: 20px
+  }
 }
