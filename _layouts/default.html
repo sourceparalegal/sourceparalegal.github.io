@@ -16,13 +16,15 @@
   <body>
     
     <!-- NAVIGATION -->
-    <p style="display:flex; flex-wrap:nowrap; justify-content:right; margin:0 auto;">
+    <p style="display:flex; flex-wrap:nowrap; justify-content:right; margin:0 auto; margin-bottom:15px">
       <!-- determine if I can do a loop here -->
       {% if site.page1 %}
       <a href='./'>Home</a>
+      <span style="padding-left: 10px;">|</span>
       <a href='./{{ site.page1 }}.html' style="padding-left:10px">{{ site.page1description }}</a>
       {% endif %}
       <!-- {% if site.page2 %}
+      <span style="padding-left: 10px;">|</span>
       < a href='./{{ site.page2 }}.html' style="padding-left:10px">{{ site.page2description }}</a>
       {% endif %} -->
     </p>
