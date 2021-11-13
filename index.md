@@ -16,7 +16,7 @@ Utilize Source Paralegal to outsource your entire staff!
 
 ![vetted paralegals](vetted-paralegals.jpeg)
 
-We pride ourselves here at Source Paralegal on our ability to provide you with an experienced, professional service from a distance. Our paralegals are carefully vetted, and preselected based on your needs and their level of experience in your area of practice. All of our work is one-hundred percent virtualized, so we can be flexible, time-efficient, and one click away from a virtual chat whenever you need us. And most importantly, we want to be a good fit with our clients. 
+We pride ourselves here at Source Paralegal on our ability to provide you with an experienced, professional service from a distance. Our paralegals are carefully vetted, and preselected based on your needs and their level of experience in your area of practice. All of our work is one-hundred percent virtualized, so we can be flexible, time-efficient, and one click away from a virtual chat whenever you need us.
 
 ### HOW CAN WE HELP YOU?
 
