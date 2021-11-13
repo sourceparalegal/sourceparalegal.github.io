@@ -2,7 +2,7 @@
 
 ## A Paralegal Solution, Customized to Fit Your Firm
 
-![support staff](support-staff.jpeg)
+![support staff](assets/images/support-staff.jpeg)
 
 Are you overconsumed in the workload and unable prioritize the time needed to grow and scale your firm? Are you thinking about hiring support staff but hesitant to take the next step?
 
@@ -14,13 +14,13 @@ Utilize Source Paralegal to outsource your entire staff!
 
 ## Experienced. Virtual. Dependable.
 
-![vetted paralegals](vetted-paralegals.jpeg)
+![vetted paralegals](assets/images/vetted-paralegals.jpeg)
 
 We pride ourselves here at Source Paralegal on our ability to provide you with an experienced, professional service from a distance. Our paralegals are carefully vetted, and preselected based on your needs and their level of experience in your area of practice. All of our work is one-hundred percent virtualized, so we can be flexible, time-efficient, and one click away from a virtual chat whenever you need us.
 
 ### HOW CAN WE HELP YOU?
 
-![good fit with clients](good-fit-with-clients.jpeg)
+![good fit with clients](assets/images/good-fit-with-clients.jpeg)
 
 ## Contact Us Below
 
