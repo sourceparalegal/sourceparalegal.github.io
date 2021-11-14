@@ -6,7 +6,7 @@ layout: default
 
 
 #### GENERAL
-![general](/assets/images/briefcase.png)
+<img src="/assets/images/briefcase.png" alt="general" width="100">
 ### CLIENT INTAKE AND COMMUNICATION
 ### LEGAL RESEARCH
 ### ORGANIZING FILES
@@ -15,7 +15,7 @@ layout: default
 
 
 #### BUSINESS LAW
-![business](/assets/images/handshake.png)
+<img src="/assets/images/handshake.png" alt="business" width="100">
 ### CLIENT INTAKE AND COMMUNICATION
 ### REVIEWING CONTRACTS
 ### DRAFTING AGREEMENTS
@@ -24,14 +24,14 @@ layout: default
 
 
 #### ESTATE PLANNING
-<img src="/assets/images/house.jpeg" width="150">
+<img src="/assets/images/house.jpeg" alt="estate" width="100">
 
 ### DRAFTING ESTATE DOCUMENTS
 <br/>
 
 
 #### PERSONAL INJURY / SOCIAL SECURITY DISABILITY
-![people](/assets/images/people.png)
+<img src="/assets/images/people.png" alt="personal" width="100">
 ### INDEXING MEDICAL RECORDS
 ### DRAFTING LEGAL BRIEFS AND MEMORANDA
 ### INTERVIEWING POTENTIAL CLIENTS
