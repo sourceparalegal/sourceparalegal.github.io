@@ -38,7 +38,6 @@ h4 {
 .clearfix::after {
   content: "";
   clear: both;
-  display: table;
 }
 
 @media print, screen and (max-width: 960px) {
