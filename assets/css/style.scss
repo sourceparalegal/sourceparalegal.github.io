@@ -35,6 +35,12 @@ h4 {
   float: left;
 }
 
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 @media print, screen and (max-width: 960px) {
   section {
     padding-top: 20px
