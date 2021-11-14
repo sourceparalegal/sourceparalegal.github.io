@@ -22,6 +22,7 @@ section {
 h3:not([id*='spend-more'],[id*='how-can'])  {
   display: flex;
   justify-content: right;
+  text-align: right;
 }
 
 h4 {
