@@ -2,8 +2,30 @@
 layout: default
 ---
 
-## Welcome to another page
+# PARALEGAL SERVICES
 
-_yay_
+#### GENERAL
+![general](/assets/images/briefcase.png)
+### CLIENT INTAKE AND COMMUNICATION
+### LEGAL RESEARCH
+### ORGANIZING FILES
+### REVIEWING DISCOVERY
 
-[back](./)
+#### BUSINESS LAW
+![business](/assets/images/handshake.png)
+### CLIENT INTAKE AND COMMUNICATION
+### REVIEWING CONTRACTS
+### DRAFTING AGREEMENTS
+### BUSINESS FORMATION
+
+#### ESTATE PLANNING
+<img src="/assets/images/house.jpeg" width="150">
+### DRAFTING ESTATE DOCUMENTS
+
+#### PERSONAL INJURY / SOCIAL SECURITY DISABILITY
+![people](/assets/images/people.png)
+### INDEXING MEDICAL RECORDS
+### DRAFTING LEGAL BRIEFS AND MEMORANDA
+### INTERVIEWING POTENTIAL CLIENTS
+
+
