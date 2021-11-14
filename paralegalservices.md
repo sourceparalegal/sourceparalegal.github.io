@@ -6,7 +6,7 @@ layout: default
 
 
 #### GENERAL
-<img src="/assets/images/briefcase.png" alt="general" width="100">
+<img src="/assets/images/briefcase.png" alt="general" width="75">
 ### CLIENT INTAKE AND COMMUNICATION
 ### LEGAL RESEARCH
 ### ORGANIZING FILES
@@ -15,7 +15,7 @@ layout: default
 
 
 #### BUSINESS LAW
-<img src="/assets/images/handshake.png" alt="business" width="100">
+<img src="/assets/images/handshake.png" alt="business" width="90">
 ### CLIENT INTAKE AND COMMUNICATION
 ### REVIEWING CONTRACTS
 ### DRAFTING AGREEMENTS
@@ -24,7 +24,7 @@ layout: default
 
 
 #### ESTATE PLANNING
-<img src="/assets/images/house.jpeg" alt="estate" width="100">
+<img src="/assets/images/house.jpeg" alt="estate" width="90">
 
 ### DRAFTING ESTATE DOCUMENTS
 <br/>
