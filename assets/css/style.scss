@@ -20,7 +20,13 @@ section {
 }
 
 h4 {
-  color: #a40b0b
+  color: #a40b0b;
+  display: flex;
+  justify-content: center;
+}
+
+[alt=general],[alt=business],[alt=estate],[alt=personal] {
+  float: left;
 }
 
 @media print, screen and (max-width: 960px) {
