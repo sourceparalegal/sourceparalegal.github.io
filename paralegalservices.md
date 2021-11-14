@@ -4,12 +4,15 @@ layout: default
 
 # PARALEGAL SERVICES
 
+
 #### GENERAL
 ![general](/assets/images/briefcase.png)
 ### CLIENT INTAKE AND COMMUNICATION
 ### LEGAL RESEARCH
 ### ORGANIZING FILES
 ### REVIEWING DISCOVERY
+<br/>
+
 
 #### BUSINESS LAW
 ![business](/assets/images/handshake.png)
@@ -17,11 +20,15 @@ layout: default
 ### REVIEWING CONTRACTS
 ### DRAFTING AGREEMENTS
 ### BUSINESS FORMATION
+<br/>
+
 
 #### ESTATE PLANNING
 <img src="/assets/images/house.jpeg" width="150">
 
 ### DRAFTING ESTATE DOCUMENTS
+<br/>
+
 
 #### PERSONAL INJURY / SOCIAL SECURITY DISABILITY
 ![people](/assets/images/people.png)
