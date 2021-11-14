@@ -20,6 +20,7 @@ layout: default
 
 #### ESTATE PLANNING
 <img src="/assets/images/house.jpeg" width="150">
+
 ### DRAFTING ESTATE DOCUMENTS
 
 #### PERSONAL INJURY / SOCIAL SECURITY DISABILITY
