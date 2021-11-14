@@ -19,6 +19,11 @@ section {
     padding-top: 40px;
 }
 
+h3:not([id*='spend-more'],[id*='how-can'])  {
+  display: flex;
+  justify-content: right;
+}
+
 h4 {
   color: #a40b0b;
   display: flex;
