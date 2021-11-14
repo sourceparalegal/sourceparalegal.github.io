@@ -38,6 +38,7 @@ h4 {
 p::after {
   content: "";
   clear: both;
+  display: inline;
 }
 
 @media print, screen and (max-width: 960px) {
