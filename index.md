@@ -24,4 +24,4 @@ We pride ourselves here at Source Paralegal on our ability to provide you with a
 
 ## Contact Us Below
 
-[Email us](mailto:cameron.m.hardesty@gmail.com)
+[Email us](mailto:sourceparalegal@gmail.com)
